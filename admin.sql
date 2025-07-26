@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS jumlah FROM USER WHERE username = 'admin'
